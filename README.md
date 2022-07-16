@@ -5,7 +5,7 @@
 
 <h2>💻 Descrição</h2>
 <br style="border: 1px solid #F0F0F0" /> 
-<p>Esta aplicação foi criada durante o Ignite Lab, evento promovido entre os dias 19 e 26 de Junho de 2022, promovido pela Rocketseat. A aplicação consiste em uma página de eventos parecida com a página utilizada durante o evento, que possibilita o usuário se inscrever no evento e acompanhar todas as aulas que estiverem disponíveis.</p>
+<p>Esta aplicação foi criada durante o Ignite Lab, evento que ocorreu entre os dias 19 e 26 de Junho de 2022, promovido pela Rocketseat. A aplicação consiste em uma página de eventos parecida com a página utilizada durante o evento, que possibilita o usuário se inscrever no evento e acompanhar todas as aulas que estiverem disponíveis.</p>
 
 <h2>🚀 Tecnologias</h2>
 <br style="border: 1px solid #F0F0F0" /> 
